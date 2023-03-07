@@ -1,0 +1,15 @@
+E:\代码\软件构造基础\assignment2\solution\Assignment2\project2\project2\bin\Debug\net6.0\project2.exe
+E:\代码\软件构造基础\assignment2\solution\Assignment2\project2\project2\bin\Debug\net6.0\project2.deps.json
+E:\代码\软件构造基础\assignment2\solution\Assignment2\project2\project2\bin\Debug\net6.0\project2.runtimeconfig.json
+E:\代码\软件构造基础\assignment2\solution\Assignment2\project2\project2\bin\Debug\net6.0\project2.dll
+E:\代码\软件构造基础\assignment2\solution\Assignment2\project2\project2\bin\Debug\net6.0\project2.pdb
+E:\代码\软件构造基础\assignment2\solution\Assignment2\project2\project2\obj\Debug\net6.0\project2.csproj.AssemblyReference.cache
+E:\代码\软件构造基础\assignment2\solution\Assignment2\project2\project2\obj\Debug\net6.0\project2.GeneratedMSBuildEditorConfig.editorconfig
+E:\代码\软件构造基础\assignment2\solution\Assignment2\project2\project2\obj\Debug\net6.0\project2.AssemblyInfoInputs.cache
+E:\代码\软件构造基础\assignment2\solution\Assignment2\project2\project2\obj\Debug\net6.0\project2.AssemblyInfo.cs
+E:\代码\软件构造基础\assignment2\solution\Assignment2\project2\project2\obj\Debug\net6.0\project2.csproj.CoreCompileInputs.cache
+E:\代码\软件构造基础\assignment2\solution\Assignment2\project2\project2\obj\Debug\net6.0\project2.dll
+E:\代码\软件构造基础\assignment2\solution\Assignment2\project2\project2\obj\Debug\net6.0\refint\project2.dll
+E:\代码\软件构造基础\assignment2\solution\Assignment2\project2\project2\obj\Debug\net6.0\project2.pdb
+E:\代码\软件构造基础\assignment2\solution\Assignment2\project2\project2\obj\Debug\net6.0\project2.genruntimeconfig.cache
+E:\代码\软件构造基础\assignment2\solution\Assignment2\project2\project2\obj\Debug\net6.0\ref\project2.dll
